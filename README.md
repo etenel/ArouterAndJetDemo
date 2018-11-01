@@ -1,0 +1,2 @@
+# ArouterAndJetDemo
+Android Jetpack的viewmodel和阿里arouter的简单使用。参考JessYan的ArmsComponent。https://github.com/JessYanCoding/ArmsComponent
